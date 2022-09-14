@@ -127,4 +127,26 @@ body {
     flex-direction: row;
 }
 
-
+/*Section 3*/
+.section3 {
+    margin-top: 70px;
+    background-color: #e5e7eb;
+    box-shadow: 0px 3px 25px 0 #8d8d8d, 0 4px 15px 0px #ccc, 0 5px 5px 0px #fff;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+.s3h3 {
+    max-width: 70%;
+    font-size: 20px;
+    font-weight: light;
+    font-style: italic;
+    color: #1f2937;
+}
+.s3h4 {
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: 20%;
+    font-weight: bold;
+}
