@@ -50,6 +50,9 @@ body {
     text-decoration: none;
     color: #fff;
 }
+a:hover {
+    color:rgb(186, 182, 182);
+}
 /*section 1*/
 .section1 {
     display: flex;
@@ -114,6 +117,7 @@ body {
     border-radius: 5px;
     border: 3px solid rgb(0, 0, 0);
     transition: 0.5s;
+    
 }
 .s2boximg:hover {
     width:250px;
@@ -125,6 +129,9 @@ body {
     justify-content: space-evenly;
     margin-top: 30px;
     flex-direction: row;
+}
+.b1info {
+    margin-top: 10px;
 }
 
 /*Section 3*/
