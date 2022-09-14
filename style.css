@@ -150,3 +150,26 @@ body {
     margin-right: 20%;
     font-weight: bold;
 }
+/*Section 4*/
+.s4box {
+    width: 50%;
+    border :1px solid rgba(0, 0, 0, 0.5);
+    min-height: 100px;
+    margin-right: auto;
+    margin-left:auto;
+    background-color: #3881f6;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.section4 {
+    padding-top: 70px;
+}
+.s4hs {
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+    margin-left: 20px;
+}
