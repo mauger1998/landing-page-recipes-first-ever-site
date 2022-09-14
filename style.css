@@ -87,6 +87,9 @@ a:hover {
     font-size: 40px;
     padding-bottom: 20px;
 }
+.s1h4 {
+    font-size: 15px;
+}
 /*Section 2*/
 .s2h1 {
     display: flex;
@@ -132,6 +135,13 @@ a:hover {
 }
 .b1info {
     margin-top: 10px;
+    text-align: center;
+    color:#8d8d8d;
+    font-weight: 900;
+}
+.s2h1 {
+    color:#8d8d8d;
+    font-size: 30px;
 }
 
 /*Section 3*/
@@ -156,6 +166,7 @@ a:hover {
     margin-left: auto;
     margin-right: 20%;
     font-weight: bold;
+    margin-top: 10px;
 }
 /*Section 4*/
 .s4box {
